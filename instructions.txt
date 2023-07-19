@@ -1,1 +1,1 @@
-// Ejemplo para ejecutar el programa:  node fifa-review.js --match  brasil_1950/brasil_sweden.json --rules rules/rules.json 
+// Ejemplo para ejecutar el programa:  node fifa-review.js --match  brasil_1950/brasil_sweden.json --rules rules/rules.json
