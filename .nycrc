@@ -1,0 +1,23 @@
+{
+  "include":[
+    "src/"
+    
+
+  ],
+  "exclude": [
+    "class/",
+    "src/functions/getResult.js",
+    "src/functions/rulesReader.js",
+    "src/utils/goalCounter.util.js",
+    "src/utils/positionTableUtil.js",
+    "src/routes/product/index.js"
+  ],
+  "extension": [
+    ".js"
+  ],
+  "cache": true,
+  "all": true,
+  "default-excludes": true,
+  "check-coverage": true,
+  "skip-full": true
+}

@@ -1,0 +1,220 @@
+[
+    {
+      "teams": {
+        "home": "Brasil",
+        "away": "Sweden"
+      },
+      "home_events": [
+        {
+          "event": "score",
+          "time": "15",
+          "player": "Ademir"
+        },
+        {
+          "event": "score",
+          "time": "21",
+          "player": "Jair"
+        },
+        {
+          "event": "score",
+          "time": "31",
+          "player": "Chico"
+        },
+        {
+          "event": "score",
+          "time": "55",
+          "player": "Chico"
+        },
+        {
+          "event": "score",
+          "time": "57",
+          "player": "Ademir"
+        },
+        {
+          "event": "score",
+          "time": "67",
+          "player": "Zizinho"
+        }
+      ],
+      "away_events": [
+        {
+          "event": "score",
+          "time": "71",
+          "player": "Silvestre Igoa"
+        }
+      ]
+    },
+    {
+      "teams": {
+        "home": "Brasil",
+        "away": "Sweden"
+      },
+      "home_events": [
+        {
+          "event": "score",
+          "time": "17",
+          "player": "pepe arquero",
+          "obs": "goalkeeper"
+        },
+        {
+          "event": "score",
+          "time": "36",
+          "player": "Ademir"
+        },
+        {
+          "event": "score",
+          "time": "39",
+          "player": "Chico",
+          "obs": "goalFromOutside"
+        },
+        {
+          "event": "score",
+          "time": "52",
+          "player": "Ademir"
+        },
+        {
+          "event": "score",
+          "time": "58",
+          "player": "Ademir"
+        },
+        {
+          "event": "score",
+          "time": "85",
+          "player": "Maneca"
+        },
+        {
+          "event": "score",
+          "time": "88",
+          "player": "Chico"
+        }
+      ],
+      "away_events": [
+        {
+          "event": "score",
+          "time": "67",
+          "player": "Sune Andersson"
+        }
+      ]
+    },
+    {
+      "teams": {
+        "home": "Brasil",
+        "away": "Uruguay"
+      },
+      "home_events": [
+        {
+          "event": "score",
+          "time": "47",
+          "player": "Friaca"
+        }
+      ],
+      "away_events": [
+        {
+          "event": "score",
+          "time": "66",
+          "player": "Juan Schiaffino"
+        },
+        {
+          "event": "score",
+          "time": "79",
+          "player": "Alcides Ghiggia"
+        }
+      ]
+    },
+    {
+      "teams": {
+        "home": "Sweden",
+        "away": "Spain"
+      },
+      "home_events": [
+        {
+          "event": "score",
+          "time": "15",
+          "player": "Stig SUNDQVIST"
+        },
+        {
+          "event": "score",
+          "time": "33",
+          "player": "Bror MELLBERG"
+        },
+        {
+          "event": "score",
+          "time": "80",
+          "player": "Karl-Erik PALMER"
+        }
+      ],
+      "away_events": [
+        {
+          "event": "score",
+          "time": "82",
+          "player": "Zarra"
+        }
+      ]
+    },
+    {
+      "teams": {
+        "home": "Uruguay",
+        "away": "Spain"
+      },
+      "home_events": [
+        {
+          "event": "score",
+          "time": "29",
+          "player": "Alcides Ghiggia"
+        },
+        {
+          "event": "score",
+          "time": "73",
+          "player": "Obdulio Varela"
+        }
+      ],
+      "away_events": [
+        {
+          "event": "score",
+          "time": "37",
+          "player": "Estanislao Basora"
+        },
+        {
+          "event": "score",
+          "time": "39",
+          "player": "Estanislao Basora"
+        }
+      ]
+    },
+    {
+      "teams": {
+        "home": "Uruguay",
+        "away": "Sweden"
+      },
+      "home_events": [
+        {
+          "event": "score",
+          "time": "39",
+          "player": "Alcides Ghiggia"
+        },
+        {
+          "event": "score",
+          "time": "77",
+          "player": "Oscar Miguez"
+        },
+        {
+          "event": "score",
+          "time": "85",
+          "player": "Oscar Miguez"
+        }
+      ],
+      "away_events": [
+        {
+          "event": "score",
+          "time": "5",
+          "player": "Karl-Erik PALMER"
+        },
+        {
+          "event": "score",
+          "time": "40",
+          "player": "Stig SUNDQVIST"
+        }
+      ]
+    }
+  ]
+  

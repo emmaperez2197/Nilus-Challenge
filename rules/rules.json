@@ -1,0 +1,35 @@
+[
+  {
+    "name": "two_points_on_win",
+    "type": "match",
+    "event": "win",
+    "points": 2
+  },
+  {
+    "name": "late_goals",
+    "type": "single",
+    "event": "score",
+    "condition": {
+      "after_time": "90 +0"
+    },
+    "bonus_points": 1
+  },
+  {
+    "name": "keeper goal",
+    "type": "particular",
+    "event": "score",
+    "condition": {
+      "player": "goalkeeper"
+    },
+    "value_factor": "x2"
+  },
+  {
+    "name": "scoring",
+    "type": "side",
+    "event": "score",
+    "condition": {
+      "at_least": 3
+    },
+    "bonus_points": 1
+  }
+]
